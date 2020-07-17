@@ -1,4 +1,3 @@
-# mmaithani-Singapore-Residents-EDA
 # Data analysis on Singapore Residents Data
 
 *   Data cleaning (openRefine)
