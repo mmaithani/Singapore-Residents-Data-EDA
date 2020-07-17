@@ -14,4 +14,5 @@ a. Has shown the highest growth rate
 b. Has shown the lowest growth rate
 c. Has remained the same
 4. Plot a graph for population trends
+
 <a href="https://sourcerer.io/mmaithani"><img src="https://img.shields.io/badge/Python-124%20commits-orange.svg" alt=""></a>
